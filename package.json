@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "description": "\"guru99 Tutorial\"",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayesmit/guru99.git"
+  },
+  "keywords": [
+    "guru99",
+    "tutorial"
+  ],
+  "author": "mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayesmit/guru99/issues"
+  },
+  "homepage": "https://github.com/hayesmit/guru99#readme"
+}
